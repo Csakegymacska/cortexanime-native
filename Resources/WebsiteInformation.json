@@ -1,0 +1,200 @@
+{
+  "faq": [
+    {
+      "title": "What is CortexAnime?",
+      "text": "CortexAnime is a free, ad-free anime streaming platform where anime fans can find their favorite series. It aggregates content from various sources and makes it available in one place."
+    },
+    {
+      "title": "Is it completely free?",
+      "text": "Yes! CortexAnime is completely free and ad-free. No subscription or registration is required to browse content. Registration unlocks extra features like watchlists and progress tracking."
+    },
+    {
+      "title": "What anime is available?",
+      "text": "CortexAnime uses the AniList database, which contains tens of thousands of anime series and films. Content is loaded from various streaming sources, and the library is constantly growing."
+    },
+    {
+      "title": "Is Hungarian subtitles available?",
+      "text": "Yes! Many anime series are available with Hungarian subtitles. In the search page, toggle the HU flag button to browse Hungarian-subtitled anime."
+    },
+    {
+      "title": "Why isn't the player loading?",
+      "text": "The Cortex Player loads the global stream from the HiAnime library (via MegaPlay). If it doesn't load within 15 seconds, hit Retry - the VidNest backup source kicks in automatically when an episode is missing. Check your internet connection if issues persist."
+    },
+    {
+      "title": "How do I switch servers?",
+      "text": "Switching is automatic: if an episode is missing from the HiAnime library, the player falls back to the VidNest source on its own - no manual server picking needed."
+    },
+    {
+      "title": "What are the 8 server options?",
+      "text": "CortexAnime uses two stream sources: the HiAnime library (via MegaPlay - primary) and VidNest (backup with multiple internal servers such as AnimePahe). Availability varies by anime."
+    },
+    {
+      "title": "How do avatar decorations work?",
+      "text": "After registering, go to Profile > Avatar Decorations. You can choose from Common, Rare, Epic, and Legendary Discord-style frame decorations. Decorations are sourced from avatardecoration.com."
+    },
+    {
+      "title": "Can I sign in with Google?",
+      "text": "Yes! On the Profile page, tap 'Continue with Google' to sign in or register with your Google account. This requires a Google account and will create a CortexAnime profile linked to your email."
+    },
+    {
+      "title": "Where is my data stored?",
+      "text": "Registration data (username, email, encrypted password) is stored securely on Cloudflare's infrastructure via D1 database. We never share personal data with third parties."
+    },
+    {
+      "title": "Does it work on iPhone?",
+      "text": "Yes! CortexAnime is fully optimized for iPhone and Android. The interface uses iOS-style glass design. You can add it to your home screen for an app-like experience."
+    }
+  ],
+  "privacy": [
+    {
+      "title": "",
+      "text": "CortexAnime respects your privacy. This policy explains what data we collect and how we use it."
+    },
+    {
+      "title": "",
+      "text": "1. Account data"
+    },
+    {
+      "title": "",
+      "text": "When you register, we store your username, email, and a password hash. Your watchlist and viewing progress are linked to your account."
+    },
+    {
+      "title": "",
+      "text": "2. Third-party logins"
+    },
+    {
+      "title": "",
+      "text": "If you log in with AniList, we store your AniList user ID to connect your account. We do not receive or store your AniList password."
+    },
+    {
+      "title": "",
+      "text": "3. Cookies"
+    },
+    {
+      "title": "",
+      "text": "We use a session cookie to keep you logged in. You can clear it by signing out."
+    },
+    {
+      "title": "",
+      "text": "4. Data we do not collect"
+    },
+    {
+      "title": "",
+      "text": "We do not sell your data, show targeted ads, or track you across third-party sites."
+    },
+    {
+      "title": "",
+      "text": "5. Contact"
+    },
+    {
+      "title": "",
+      "text": "Questions about privacy? Contact us at cortexanime@proton.me"
+    }
+  ],
+  "dmca": [
+    {
+      "title": "",
+      "text": "Disclaimer"
+    },
+    {
+      "title": "",
+      "text": "CortexAnime does not store any video content on its own servers. The site only links to third-party streaming sources and bears no responsibility for their content."
+    },
+    {
+      "title": "",
+      "text": "DMCA Takedown Procedure"
+    },
+    {
+      "title": "",
+      "text": "If you believe content on this site infringes your copyright, submit a DMCA notice containing:"
+    },
+    {
+      "title": "",
+      "text": "The exact URL of the infringing content"
+    },
+    {
+      "title": "",
+      "text": "Identification of the copyrighted work"
+    },
+    {
+      "title": "",
+      "text": "Your contact information"
+    },
+    {
+      "title": "",
+      "text": "A good-faith statement that use is unauthorized"
+    },
+    {
+      "title": "",
+      "text": "Your digital or physical signature"
+    },
+    {
+      "title": "",
+      "text": "Contact"
+    },
+    {
+      "title": "",
+      "text": "Send DMCA notices and copyright complaints to:"
+    },
+    {
+      "title": "",
+      "text": "We typically respond within 3–5 business days."
+    },
+    {
+      "title": "",
+      "text": "Third-Party Sources"
+    },
+    {
+      "title": "",
+      "text": "CortexAnime uses the following external data sources:"
+    },
+    {
+      "title": "",
+      "text": "AniList"
+    },
+    {
+      "title": "",
+      "text": "MyAnimeList / Jikan"
+    },
+    {
+      "title": "",
+      "text": "TMDB"
+    },
+    {
+      "title": "",
+      "text": "Hungarian fan communities"
+    },
+    {
+      "title": "",
+      "text": "Various streaming sites"
+    },
+    {
+      "title": "",
+      "text": "The respective streaming sites are responsible for infringing content. DMCA requests should be directed to the content source."
+    },
+    {
+      "title": "",
+      "text": "CortexAnime collects and stores the following:"
+    },
+    {
+      "title": "",
+      "text": "Username and email (with encrypted password) on registration"
+    },
+    {
+      "title": "",
+      "text": "Watchlist and progress (for registered users only)"
+    },
+    {
+      "title": "",
+      "text": "No personal data is sold to third parties"
+    },
+    {
+      "title": "",
+      "text": "Cloudflare's Privacy Policy"
+    },
+    {
+      "title": "",
+      "text": "Not affiliated with AniList, MyAnimeList, or any anime studio."
+    }
+  ]
+}

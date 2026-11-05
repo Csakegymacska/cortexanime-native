@@ -1,0 +1,185 @@
+name: CortexAnimeNative
+options:
+  bundleIdPrefix: eu.cortex.anime.port
+  deploymentTarget:
+    iOS: '26.0'
+  xcodeVersion: '27.0'
+settings:
+  base:
+    SWIFT_VERSION: '5.0'
+    SWIFT_STRICT_CONCURRENCY: targeted
+    CURRENT_PROJECT_VERSION: '210'
+    MARKETING_VERSION: '2.1.0'
+    DEVELOPMENT_TEAM: ''
+    CODE_SIGN_STYLE: Automatic
+    GENERATE_INFOPLIST_FILE: false
+    TARGETED_DEVICE_FAMILY: '1,2'
+    ENABLE_USER_SCRIPT_SANDBOXING: true
+    ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    # 6.7: a váltható ikonok mind bekerüljenek a csomagba, ne csak az elsődleges.
+    ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS: 'YES'
+    SUPPORTS_MACCATALYST: false
+targets:
+  CortexAnimeNative:
+    type: application
+    platform: iOS
+    sources:
+      - Sources
+      - Resources
+      - Shared
+    info:
+      path: Build/Native-Info.plist
+      properties:
+        CFBundleDisplayName: CortexAnime
+        CFBundleName: CortexAnime
+        CFBundleDevelopmentRegion: en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UILaunchScreen:
+          UIColorName: LaunchBackground
+        NSSupportsLiveActivities: true
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: true
+        UIBackgroundModes: [audio, fetch]
+        BGTaskSchedulerPermittedIdentifiers:
+          - eu.cortex.anime.port.refresh
+        UIApplicationSupportsIndirectInputEvents: true
+        UIRequiresFullScreen: false
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        CFBundleURLTypes:
+          - CFBundleURLName: eu.cortex.anime.port
+            CFBundleURLSchemes: [cortexanime-native-port]
+        ITSAppUsesNonExemptEncryption: false
+        CFBundleIcons:
+          CFBundlePrimaryIcon:
+            CFBundleIconFiles: [AppIcon]
+            CFBundleIconName: AppIcon
+          CFBundleAlternateIcons:
+            AppIconMidnight:
+              CFBundleIconFiles: [AppIconMidnight]
+              UIPrerenderedIcon: false
+            AppIconAurora:
+              CFBundleIconFiles: [AppIconAurora]
+              UIPrerenderedIcon: false
+            AppIconEmber:
+              CFBundleIconFiles: [AppIconEmber]
+              UIPrerenderedIcon: false
+            AppIconSakura:
+              CFBundleIconFiles: [AppIconSakura]
+              UIPrerenderedIcon: false
+            AppIconGraphite:
+              CFBundleIconFiles: [AppIconGraphite]
+              UIPrerenderedIcon: false
+            AppIconNoir:
+              CFBundleIconFiles: [AppIconNoir]
+              UIPrerenderedIcon: false
+            AppIconDaylight:
+              CFBundleIconFiles: [AppIconDaylight]
+              UIPrerenderedIcon: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: eu.cortex.anime.port
+        # 6.2: the .app folder inside the IPA is what eSign lists while signing, so it
+        # carries the product name too (Payload/CortexAnime.app instead of ...Native.app).
+        PRODUCT_NAME: CortexAnime
+        # The Swift module keeps the old name on purpose: the test targets import it, and the
+        # module name is never shown to anyone. Only the product/bundle name changed.
+        PRODUCT_MODULE_NAME: CortexAnimeNative
+    dependencies:
+      - sdk: AVKit.framework
+      - sdk: ActivityKit.framework
+      - sdk: CoreSpotlight.framework
+      - sdk: Security.framework
+      - sdk: WidgetKit.framework
+      - target: CortexEpisodesWidget
+        embed: true
+  CortexEpisodesWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - WidgetExtension
+      - Shared
+      - Sources/MetadataQueries.swift
+    info:
+      path: Build/Widget-Info.plist
+      properties:
+        CFBundleDisplayName: CortexAnime Episodes
+        CFBundleDevelopmentRegion: en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+        ITSAppUsesNonExemptEncryption: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: eu.cortex.anime.port.widget
+        APPLICATION_EXTENSION_API_ONLY: true
+        SKIP_INSTALL: true
+        ASSETCATALOG_COMPILER_APPICON_NAME: ''
+        LD_RUNPATH_SEARCH_PATHS: ['$(inherited)', '@executable_path/Frameworks', '@executable_path/../../Frameworks']
+    dependencies:
+      - sdk: WidgetKit.framework
+      - sdk: SwiftUI.framework
+      - sdk: ActivityKit.framework
+  CortexAnimeNativeTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - Tests/CoreTests.swift
+      - Tests/NativeIntegrationTests.swift
+      - Tests/ContractTests.swift
+      - Tests/CaptionRecoveryTests.swift
+      - Tests/PlayerPresentationTests.swift
+      - Tests/WatchGuardTests.swift
+      - Tests/OfflineStorageTests.swift
+      - Tests/DownloadQueueTests.swift
+      - Tests/AlertsRadarTests.swift
+      - Tests/SubtitleAlertTests.swift
+      - Tests/LayoutPolicyTests.swift
+    resources:
+      - Resources/FixtureBleach.json
+      - Resources/NativePlaybackFixture.mp4
+      - Resources/NativePlaybackFixture.vtt
+    dependencies:
+      - target: CortexAnimeNative
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: true
+        ASSETCATALOG_COMPILER_APPICON_NAME: ''
+        # 6.2: the product is CortexAnime.app/CortexAnime, so the generated TEST_HOST path
+        # (which follows the target name) has to be pointed at the real bundle.
+        TEST_HOST: $(BUILT_PRODUCTS_DIR)/CortexAnime.app/CortexAnime
+        BUNDLE_LOADER: $(TEST_HOST)
+  CortexAnimeNativeUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - Tests/NativeUITests.swift
+    dependencies:
+      - target: CortexAnimeNative
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: true
+        ASSETCATALOG_COMPILER_APPICON_NAME: ''
+schemes:
+  CortexAnimeNative:
+    build:
+      targets:
+        CortexAnimeNative: all
+    test:
+      gatherCoverageData: false
+      environmentVariables:
+        CORTEX_LIVE_QA: '1'
+      targets:
+        - name: CortexAnimeNativeTests
+          parallelizable: false
+        - name: CortexAnimeNativeUITests
+          parallelizable: false

@@ -1,0 +1,71 @@
+name: Build
+
+on:
+  push:
+    branches: ['main']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Egy futás = egy job (a macOS-arm64 sorokon így jutunk géphez a leggyorsabban).
+# Ez a build COMPAT_SDK-val fordít: a Liquid Glass ág helyett a tömör anyag
+# készül, így az iOS 18.5-ös SDK is elég a virtuális Macen. A cél: a pontosan
+# `CortexAnimeNative-UNSIGNED.ipa` nevű artifact, amit az /app oldal ki tud szolgálni.
+jobs:
+  ipa:
+    runs-on: macos-15-intel
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Toolchain
+        run: |
+          xcodebuild -version
+          echo "iOS SDK: $(xcrun --sdk iphoneos --show-sdk-version)"
+
+      - name: Lower deployment target to this SDK
+        run: |
+          set -euo pipefail
+          SDK=$(xcrun --sdk iphoneos --show-sdk-version)
+          sed -i '' -e "s/iOS: '26.0'/iOS: '$SDK'/" -e "s/deploymentTarget: \"26.0\"/deploymentTarget: \"$SDK\"/g" project.yml
+          grep -n 'deploymentTarget\|iOS:' project.yml | head -4
+
+      - name: XcodeGen
+        run: |
+          set -euo pipefail
+          if ! command -v xcodegen >/dev/null; then HOMEBREW_NO_AUTO_UPDATE=1 brew install xcodegen; fi
+          xcodegen generate
+          xcodebuild -list -project CortexAnimeNative.xcodeproj
+
+      - name: Build (errors as annotations)
+        run: |
+          set -uo pipefail
+          set +e
+          xcodebuild build -project CortexAnimeNative.xcodeproj -scheme CortexAnimeNative \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            SWIFT_ACTIVE_COMPILATION_CONDITIONS=COMPAT_SDK \
+            -derivedDataPath build > build.log 2>&1
+          STATUS=$?
+          tail -30 build.log
+          if [ $STATUS -ne 0 ]; then
+            grep -i "error" build.log | head -9 | while IFS= read -r line; do echo "::error::${line:0:900}"; done || true
+            echo "::error::xcodebuild exit $STATUS"
+            exit $STATUS
+          fi
+
+      - name: Package IPA
+        run: |
+          set -euo pipefail
+          APP=$(find build/Build/Products/Release-iphoneos -maxdepth 1 -name '*.app' | head -1)
+          test -n "$APP"
+          mkdir -p out/Payload && cp -R "$APP" out/Payload/
+          cd out && zip -qry CortexAnimeNative-UNSIGNED.ipa Payload
+          shasum -a 256 CortexAnimeNative-UNSIGNED.ipa | tee CortexAnimeNative-UNSIGNED.ipa.sha256
+          ls -lh
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CortexAnimeNative-ipa
+          path: out/*

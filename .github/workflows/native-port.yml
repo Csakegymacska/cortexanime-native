@@ -1,0 +1,57 @@
+name: CortexAnime final native caption correction
+on:
+  push:
+    branches: ['native-full-port-20261020']
+    paths: ['cortex_anime_native/**', '.github/workflows/native-port.yml']
+permissions:
+  contents: read
+concurrency:
+  group: cortexanime-native-port-20261020
+  cancel-in-progress: false
+jobs:
+  native:
+    runs-on: macos-15-intel
+    timeout-minutes: 12
+    defaults:
+      run:
+        working-directory: cortex_anime_native
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+      - name: Select installed stable Apple SDK
+        run: |
+          set -euo pipefail
+          XCODE=$(find /Applications -maxdepth 1 -type d -name 'Xcode*.app' | grep -vi beta | sort -V | tail -1)
+          test -n "$XCODE"
+          sudo xcode-select --switch "$XCODE/Contents/Developer"
+          xcodebuild -version
+          SDK=$(xcrun --sdk iphoneos --show-sdk-version)
+          test "${SDK%%.*}" -ge 26
+          if ! command -v xcodegen >/dev/null; then HOMEBREW_NO_AUTO_UPDATE=1 brew install xcodegen; fi
+          xcodegen generate --spec project.yml
+      - name: Archive corrected genuine unsigned device app
+        run: bash Build/archive-native.sh
+      - name: Save final device app immediately
+        uses: actions/upload-artifact@v4
+        with:
+          name: CortexAnimeNative-device
+          retention-days: 1
+          if-no-files-found: error
+          path: |
+            cortex_anime_native/artifacts/CortexAnimeNative-UNSIGNED.ipa
+            cortex_anime_native/artifacts/ipa-verification.json
+            cortex_anime_native/artifacts/device-binary.txt
+      - name: Execute exact native caption decoder and selection against real sources
+        continue-on-error: true
+        run: bash Build/probe-native-captions.sh
+      - name: Save compact final evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: CortexAnimeNative-caption-evidence
+          retention-days: 1
+          if-no-files-found: warn
+          path: |
+            cortex_anime_native/artifacts/*.log
+            cortex_anime_native/artifacts/native-caption-qa.json
+            cortex_anime_native/artifacts/caption-probe-source.json

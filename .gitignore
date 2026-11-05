@@ -1,0 +1,13 @@
+# XcodeGen output and local build products
+Build/
+artifacts/
+*.xcodeproj/
+DerivedData/
+build/
+*.ipa
+*.dSYM
+.DS_Store
+
+# Local test artefacts
+Previews/out/
+*.xcresult

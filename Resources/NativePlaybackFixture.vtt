@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+Authored native playback fixture
+
+00:00:10.000 --> 00:00:18.000
+Seek and subtitle test
+
+00:00:20.000 --> 00:00:39.000
+Native AVPlayer caption

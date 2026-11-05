@@ -1,0 +1,3262 @@
+[
+  {
+    "id": "none",
+    "name": "None",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_purple",
+    "name": "Lila Glow",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_cyan",
+    "name": "Cian Glow",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_pink",
+    "name": "Pink Glow",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_gold",
+    "name": "Arany Glow",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_green",
+    "name": "Green Glow",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_thunder",
+    "name": "Vihar",
+    "imageUrl": null
+  },
+  {
+    "id": "glow_fireflies",
+    "name": "Fireflies",
+    "imageUrl": null
+  },
+  {
+    "id": "border_gold",
+    "name": "Arany Keret",
+    "imageUrl": null
+  },
+  {
+    "id": "border_silver",
+    "name": "Silver Frame",
+    "imageUrl": null
+  },
+  {
+    "id": "death_scythe",
+    "name": "The Death Scythe",
+    "imageUrl": "https://cortexanime.tibikegh12.workers.dev/deco-death-scythe.png"
+  },
+  {
+    "id": "owner_crown",
+    "name": "Owner",
+    "imageUrl": null
+  },
+  {
+    "id": "calamity_bleach",
+    "name": "The Calamity",
+    "imageUrl": null
+  },
+  {
+    "id": "border_divine",
+    "name": "Divine Arany",
+    "imageUrl": null
+  },
+  {
+    "id": "border_precious",
+    "name": "Precious",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_rainbow",
+    "name": "Rainbow",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_fire",
+    "name": "Inferno",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_inferno",
+    "name": "Inferno Pro",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_ocean",
+    "name": "Ocean",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_galaxy",
+    "name": "Galaxis",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_electric",
+    "name": "Lightning",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_aurora",
+    "name": "Aurora",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_portal",
+    "name": "Portal",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_prism",
+    "name": "Prism",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_plasma",
+    "name": "Plazma",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_sakura",
+    "name": "Sakura",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_solar",
+    "name": "Nap",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_matrix",
+    "name": "Matrix",
+    "imageUrl": null
+  },
+  {
+    "id": "spin_neon",
+    "name": "Neon",
+    "imageUrl": null
+  },
+  {
+    "id": "pulse_fire",
+    "name": "Fire Pulse",
+    "imageUrl": null
+  },
+  {
+    "id": "pulse_ice",
+    "name": "Ice Pulse",
+    "imageUrl": null
+  },
+  {
+    "id": "pulse_electric",
+    "name": "Electric Pulse",
+    "imageUrl": null
+  },
+  {
+    "id": "pulse_phoenix",
+    "name": "Phoenix",
+    "imageUrl": null
+  },
+  {
+    "id": "pulse_void",
+    "name": "Void",
+    "imageUrl": null
+  },
+  {
+    "id": "im_a_clown",
+    "name": "I'm a Clown",
+    "imageUrl": "https://img.avatardecoration.com/decorations/im_a_clown.png"
+  },
+  {
+    "id": "mokoko",
+    "name": "Mokoko",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mokoko.png"
+  },
+  {
+    "id": "sakura_gyoiko",
+    "name": "Gyoiko Sakura",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura_gyoiko.png"
+  },
+  {
+    "id": "warp_helmet",
+    "name": "Warp Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/warp_helmet.png"
+  },
+  {
+    "id": "victory_crown",
+    "name": "Fortnite Victory Crown",
+    "imageUrl": "https://img.avatardecoration.com/decorations/victory_crown.png"
+  },
+  {
+    "id": "freezer_bunny_lovebug",
+    "name": "Freezer Bunny Lovebug",
+    "imageUrl": "https://img.avatardecoration.com/decorations/freezer_bunny_lovebug.png"
+  },
+  {
+    "id": "wingman_boba",
+    "name": "Wingman Boba",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wingman_boba.png"
+  },
+  {
+    "id": "los_santos",
+    "name": "Los Santos",
+    "imageUrl": "https://img.avatardecoration.com/decorations/los_santos.png"
+  },
+  {
+    "id": "hailey",
+    "name": "Hailey",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hailey.png"
+  },
+  {
+    "id": "bunny",
+    "name": "Bunny",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bunny.png"
+  },
+  {
+    "id": "torgal_puppy",
+    "name": "Torgal Puppy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/torgal_puppy.png"
+  },
+  {
+    "id": "street_fighter_6_battle_field",
+    "name": "Street Fighter 6 Battle Field",
+    "imageUrl": "https://img.avatardecoration.com/decorations/street_fighter_6_battle_field.png"
+  },
+  {
+    "id": "wolf_morph",
+    "name": "Wolf Morph",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wolf_morph.png"
+  },
+  {
+    "id": "wallach_spaceport",
+    "name": "Wallach IX Spaceport",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wallach_spaceport.png"
+  },
+  {
+    "id": "batarang",
+    "name": "Batarang",
+    "imageUrl": "https://img.avatardecoration.com/decorations/batarang.png"
+  },
+  {
+    "id": "rift_butterfly",
+    "name": "Rift Butterfly",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rift_butterfly.png"
+  },
+  {
+    "id": "bush_camper",
+    "name": "Bush Camper",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bush_camper.png"
+  },
+  {
+    "id": "shield_potion",
+    "name": "Shield Potion",
+    "imageUrl": "https://img.avatardecoration.com/decorations/shield_potion.png"
+  },
+  {
+    "id": "tga_controller",
+    "name": "TGA Controller",
+    "imageUrl": "https://img.avatardecoration.com/decorations/tga_controller.png"
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow",
+    "imageUrl": "https://img.avatardecoration.com/decorations/shadow.png"
+  },
+  {
+    "id": "new_year_2025",
+    "name": "2025 Balloons",
+    "imageUrl": "https://img.avatardecoration.com/decorations/new_year_2025.png"
+  },
+  {
+    "id": "santa_cat_ears",
+    "name": "Holiday Cat Ears",
+    "imageUrl": "https://img.avatardecoration.com/decorations/santa_cat_ears.png"
+  },
+  {
+    "id": "snowfall",
+    "name": "Snowfall",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowfall.png"
+  },
+  {
+    "id": "rec_room_lightning",
+    "name": "Rec Room Lightning",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rec_room_lightning.png"
+  },
+  {
+    "id": "wingmans_got_it",
+    "name": "WINGMAN'S GOT IT",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wingmans_got_it.png"
+  },
+  {
+    "id": "jeff_the_land_shark",
+    "name": "Jeff the Land Shark",
+    "imageUrl": "https://img.avatardecoration.com/decorations/jeff_the_land_shark.png"
+  },
+  {
+    "id": "fuchsia_agent",
+    "name": "Fuchsia Agent",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fuchsia_agent.png"
+  },
+  {
+    "id": "heart_to_heart",
+    "name": "Heart-to-Heart",
+    "imageUrl": "https://img.avatardecoration.com/decorations/heart_to_heart.png"
+  },
+  {
+    "id": "snakes_hug",
+    "name": "Snake's Hug",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snakes_hug.png"
+  },
+  {
+    "id": "lotus_flower",
+    "name": "Lotus Flower",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lotus_flower.png"
+  },
+  {
+    "id": "red_lantern",
+    "name": "Red Lantern",
+    "imageUrl": "https://img.avatardecoration.com/decorations/red_lantern.png"
+  },
+  {
+    "id": "fan_flourish",
+    "name": "Fan Flourish",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fan_flourish.png"
+  },
+  {
+    "id": "lunar_lanterns",
+    "name": "Lunar Lanterns",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lunar_lanterns.png"
+  },
+  {
+    "id": "firecrackers",
+    "name": "Firecrackers",
+    "imageUrl": "https://img.avatardecoration.com/decorations/firecrackers.png"
+  },
+  {
+    "id": "dragons_smile",
+    "name": "Dragon's Smile",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dragons_smile.png"
+  },
+  {
+    "id": "lucky_envelopes",
+    "name": "Lucky Envelopes",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lucky_envelopes.png"
+  },
+  {
+    "id": "koi_pond",
+    "name": "Koi Pond",
+    "imageUrl": "https://img.avatardecoration.com/decorations/koi_pond.png"
+  },
+  {
+    "id": "steampunk_cat_ears",
+    "name": "Steampunk Cat Ears",
+    "imageUrl": "https://img.avatardecoration.com/decorations/steampunk_cat_ears.png"
+  },
+  {
+    "id": "mech_flora",
+    "name": "Mech Flora",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mech_flora.png"
+  },
+  {
+    "id": "bowler_hat",
+    "name": "Bowler Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bowler_hat.png"
+  },
+  {
+    "id": "brass_beats",
+    "name": "Brass Beats",
+    "imageUrl": "https://img.avatardecoration.com/decorations/brass_beats.png"
+  },
+  {
+    "id": "timekeepers_clock",
+    "name": "Timekeeper's Clock",
+    "imageUrl": "https://img.avatardecoration.com/decorations/timekeepers_clock.png"
+  },
+  {
+    "id": "flux_alchemy",
+    "name": "Flux Alchemy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flux_alchemy.png"
+  },
+  {
+    "id": "magic_portal_purple",
+    "name": "Magic Portal (Purple)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/magic_portal_purple.png"
+  },
+  {
+    "id": "magic_portal_blue",
+    "name": "Magic Portal (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/magic_portal_blue.png"
+  },
+  {
+    "id": "fairy_sprites_pink",
+    "name": "Fairy Sprites (Pink)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fairy_sprites_pink.png"
+  },
+  {
+    "id": "fairy_sprites_blue",
+    "name": "Fairy Sprites (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fairy_sprites_blue.png"
+  },
+  {
+    "id": "fairy_sprites",
+    "name": "Fairy Sprites",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fairy_sprites.png"
+  },
+  {
+    "id": "crystal_ball_purple",
+    "name": "Crystal Ball (Purple)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/crystal_ball_purple.png"
+  },
+  {
+    "id": "crystal_ball_blue",
+    "name": "Crystal Ball (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/crystal_ball_blue.png"
+  },
+  {
+    "id": "wizard_hat_purple",
+    "name": "Wizard Hat (Purple)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wizard_hat_purple.png"
+  },
+  {
+    "id": "wizard_hat_blue",
+    "name": "Wizard Hat (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wizard_hat_blue.png"
+  },
+  {
+    "id": "magical_wand_purple",
+    "name": "Magical Wand (Purple)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/magical_wand_purple.png"
+  },
+  {
+    "id": "magical_wand_green",
+    "name": "Magical Wand (Green)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/magical_wand_green.png"
+  },
+  {
+    "id": "mooncaps_pink",
+    "name": "Mooncaps (Pink)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mooncaps_pink.png"
+  },
+  {
+    "id": "mooncaps_blue",
+    "name": "Mooncaps (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mooncaps_blue.png"
+  },
+  {
+    "id": "cottage_home",
+    "name": "Cottage Home",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cottage_home.png"
+  },
+  {
+    "id": "flaming_sword",
+    "name": "Flaming Sword",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flaming_sword.png"
+  },
+  {
+    "id": "magical_potion",
+    "name": "Magical Potion",
+    "imageUrl": "https://img.avatardecoration.com/decorations/magical_potion.png"
+  },
+  {
+    "id": "wizards_staff",
+    "name": "Wizard's Staff",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wizards_staff.png"
+  },
+  {
+    "id": "glowing_runes",
+    "name": "Glowing Runes",
+    "imageUrl": "https://img.avatardecoration.com/decorations/glowing_runes.png"
+  },
+  {
+    "id": "defensive_shield",
+    "name": "Defensive Shield",
+    "imageUrl": "https://img.avatardecoration.com/decorations/defensive_shield.png"
+  },
+  {
+    "id": "skull_medallion",
+    "name": "Skull Medallion",
+    "imageUrl": "https://img.avatardecoration.com/decorations/skull_medallion.png"
+  },
+  {
+    "id": "treasure_and_key",
+    "name": "Treasure and Key",
+    "imageUrl": "https://img.avatardecoration.com/decorations/treasure_and_key.png"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "imageUrl": "https://img.avatardecoration.com/decorations/aurora.png"
+  },
+  {
+    "id": "polar_bear_hat",
+    "name": "Polar Bear Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/polar_bear_hat.png"
+  },
+  {
+    "id": "string_lights",
+    "name": "String Lights",
+    "imageUrl": "https://img.avatardecoration.com/decorations/string_lights.png"
+  },
+  {
+    "id": "string_lights_aurora",
+    "name": "String Lights (Aurora)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/string_lights_aurora.png"
+  },
+  {
+    "id": "string_lights_ember",
+    "name": "String Lights (Ember)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/string_lights_ember.png"
+  },
+  {
+    "id": "string_lights_dusk",
+    "name": "String Lights (Dusk)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/string_lights_dusk.png"
+  },
+  {
+    "id": "string_lights_mix",
+    "name": "String Lights (Mix)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/string_lights_mix.png"
+  },
+  {
+    "id": "snowglobe",
+    "name": "Snowglobe",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowglobe.png"
+  },
+  {
+    "id": "snowglobe_wood",
+    "name": "Snowglobe (Wood)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowglobe_wood.png"
+  },
+  {
+    "id": "snowglobe_pink",
+    "name": "Snowglobe (Pink)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowglobe_pink.png"
+  },
+  {
+    "id": "snowglobe_blue",
+    "name": "Snowglobe (Blue)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowglobe_blue.png"
+  },
+  {
+    "id": "snowglobe_green",
+    "name": "Snowglobe (Green)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snowglobe_green.png"
+  },
+  {
+    "id": "fresh_pine",
+    "name": "Fresh Pine",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fresh_pine.png"
+  },
+  {
+    "id": "fresh_pine_cinnamon",
+    "name": "Fresh Pine (Cinnamon)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fresh_pine_cinnamon.png"
+  },
+  {
+    "id": "fresh_pine_ribbon",
+    "name": "Fresh Pine (Ribbon)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fresh_pine_ribbon.png"
+  },
+  {
+    "id": "lofi_girl_outfit",
+    "name": "Lofi Girl Outfit",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lofi_girl_outfit.png"
+  },
+  {
+    "id": "playful_lofi_cat",
+    "name": "Playful Lofi Cat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/playful_lofi_cat.png"
+  },
+  {
+    "id": "sleepy_chilledcow",
+    "name": "Sleepy ChilledCow",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sleepy_chilledcow.png"
+  },
+  {
+    "id": "study_session",
+    "name": "Study Session",
+    "imageUrl": "https://img.avatardecoration.com/decorations/study_session.png"
+  },
+  {
+    "id": "group_hug",
+    "name": "Group Hug",
+    "imageUrl": "https://img.avatardecoration.com/decorations/group_hug.png"
+  },
+  {
+    "id": "cozy_post_it",
+    "name": "Cozy Post-It",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cozy_post_it.png"
+  },
+  {
+    "id": "cozy_post_it_festive",
+    "name": "Cozy Post-It (Festive)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cozy_post_it_festive.png"
+  },
+  {
+    "id": "cat_ear_headset",
+    "name": "Cat Ear Headset",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_ear_headset.png"
+  },
+  {
+    "id": "bubble_tea",
+    "name": "Bubble Tea",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bubble_tea.png"
+  },
+  {
+    "id": "bunny_zzzs",
+    "name": "Bunny Zzzs",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bunny_zzzs.png"
+  },
+  {
+    "id": "sproutling",
+    "name": "Sproutling",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sproutling.png"
+  },
+  {
+    "id": "bloomling",
+    "name": "Bloomling",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bloomling.png"
+  },
+  {
+    "id": "neon_nibbles",
+    "name": "Neon Nibbles",
+    "imageUrl": "https://img.avatardecoration.com/decorations/neon_nibbles.png"
+  },
+  {
+    "id": "uwu_xp",
+    "name": "UwU XP",
+    "imageUrl": "https://img.avatardecoration.com/decorations/uwu_xp.png"
+  },
+  {
+    "id": "the_anomaly",
+    "name": "The Anomaly",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_anomaly.png"
+  },
+  {
+    "id": "the_mark",
+    "name": "The Mark",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_mark.png"
+  },
+  {
+    "id": "the_monster_you_created",
+    "name": "The Monster You Created",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_monster_you_created.png"
+  },
+  {
+    "id": "the_atlas_gauntlets",
+    "name": "The Atlas Gauntlets",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_atlas_gauntlets.png"
+  },
+  {
+    "id": "flame_chompers",
+    "name": "Flame Chompers",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flame_chompers.png"
+  },
+  {
+    "id": "fishbones",
+    "name": "FISHBONES!",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fishbones.png"
+  },
+  {
+    "id": "the_hexcore",
+    "name": "The Hexcore",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_hexcore.png"
+  },
+  {
+    "id": "powered_by_shimmer",
+    "name": "Powered by Shimmer",
+    "imageUrl": "https://img.avatardecoration.com/decorations/powered_by_shimmer.png"
+  },
+  {
+    "id": "kitsune",
+    "name": "Kitsune",
+    "imageUrl": "https://img.avatardecoration.com/decorations/kitsune.png"
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn",
+    "imageUrl": "https://img.avatardecoration.com/decorations/unicorn.png"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "imageUrl": "https://img.avatardecoration.com/decorations/phoenix.png"
+  },
+  {
+    "id": "dancing_fairies",
+    "name": "Dancing Fairies",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dancing_fairies.png"
+  },
+  {
+    "id": "crystal_elk",
+    "name": "Crystal Elk",
+    "imageUrl": "https://img.avatardecoration.com/decorations/crystal_elk.png"
+  },
+  {
+    "id": "mermaid_serenade",
+    "name": "Mermaid Serenade",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mermaid_serenade.png"
+  },
+  {
+    "id": "dice_violet",
+    "name": "Violet Dice",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dice_violet.png"
+  },
+  {
+    "id": "dice_azure",
+    "name": "Azure Dice",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dice_azure.png"
+  },
+  {
+    "id": "gelatinous_cube_green",
+    "name": "Green Gelatinous Cube",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gelatinous_cube_green.png"
+  },
+  {
+    "id": "gelatinous_cube_blue",
+    "name": "Blue Gelatinous Cube",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gelatinous_cube_blue.png"
+  },
+  {
+    "id": "owlbear_cub",
+    "name": "Owlbear Cub",
+    "imageUrl": "https://img.avatardecoration.com/decorations/owlbear_cub.png"
+  },
+  {
+    "id": "owlbear_cub_snowy",
+    "name": "Snowy Owlbear Cub",
+    "imageUrl": "https://img.avatardecoration.com/decorations/owlbear_cub_snowy.png"
+  },
+  {
+    "id": "baby_displacer_beast",
+    "name": "Baby Displacer Beast",
+    "imageUrl": "https://img.avatardecoration.com/decorations/baby_displacer_beast.png"
+  },
+  {
+    "id": "spooky_cat_ears",
+    "name": "Spooky Cat Ears",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spooky_cat_ears.png"
+  },
+  {
+    "id": "spooky_cat_ears_midnight",
+    "name": "Spooky Cat Ears (Midnight)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spooky_cat_ears_midnight.png"
+  },
+  {
+    "id": "candlelight",
+    "name": "Candlelight",
+    "imageUrl": "https://img.avatardecoration.com/decorations/candlelight.png"
+  },
+  {
+    "id": "candlelight_crimson",
+    "name": "Crimson Candlelight",
+    "imageUrl": "https://img.avatardecoration.com/decorations/candlelight_crimson.png"
+  },
+  {
+    "id": "candlelight_dark",
+    "name": "Dark Candlelight",
+    "imageUrl": "https://img.avatardecoration.com/decorations/candlelight_dark.png"
+  },
+  {
+    "id": "hood_dark",
+    "name": "Dark Hood",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hood_dark.png"
+  },
+  {
+    "id": "hood_crimson",
+    "name": "Crimson Hood",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hood_crimson.png"
+  },
+  {
+    "id": "witch_hat_plum",
+    "name": "Plum Witch Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/witch_hat_plum.png"
+  },
+  {
+    "id": "witch_hat_midnight",
+    "name": "Midnight Witch Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/witch_hat_midnight.png"
+  },
+  {
+    "id": "zombie_food",
+    "name": "Zombie Food",
+    "imageUrl": "https://img.avatardecoration.com/decorations/zombie_food.png"
+  },
+  {
+    "id": "zombie_food_purple",
+    "name": "Zombie Food (Purple)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/zombie_food_purple.png"
+  },
+  {
+    "id": "bloodthirsty",
+    "name": "Bloodthirsty",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bloodthirsty.png"
+  },
+  {
+    "id": "bloodthirsty_green",
+    "name": "Bloodthirsty (Green)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bloodthirsty_green.png"
+  },
+  {
+    "id": "bloodthirsty_gold",
+    "name": "Bloodthirsty (Gold)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bloodthirsty_gold.png"
+  },
+  {
+    "id": "ryu",
+    "name": "Ryu",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ryu.png"
+  },
+  {
+    "id": "chun_li",
+    "name": "Chun-Li",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chun_li.png"
+  },
+  {
+    "id": "ken",
+    "name": "Ken",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ken.png"
+  },
+  {
+    "id": "akuma",
+    "name": "Akuma",
+    "imageUrl": "https://img.avatardecoration.com/decorations/akuma.png"
+  },
+  {
+    "id": "cammy",
+    "name": "Cammy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cammy.png"
+  },
+  {
+    "id": "guile",
+    "name": "Guile",
+    "imageUrl": "https://img.avatardecoration.com/decorations/guile.png"
+  },
+  {
+    "id": "juri",
+    "name": "Juri",
+    "imageUrl": "https://img.avatardecoration.com/decorations/juri.png"
+  },
+  {
+    "id": "m_bison",
+    "name": "M. Bison",
+    "imageUrl": "https://img.avatardecoration.com/decorations/m_bison.png"
+  },
+  {
+    "id": "chrysanthemums_twilight",
+    "name": "Twilight Chrysanthemums",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chrysanthemums_twilight.png"
+  },
+  {
+    "id": "chrysanthemums_morning",
+    "name": "Morning Chrysanthemums",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chrysanthemums_morning.png"
+  },
+  {
+    "id": "dusk_and_dawn",
+    "name": "Dusk and Dawn",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dusk_and_dawn.png"
+  },
+  {
+    "id": "floral_harmony",
+    "name": "Floral Harmony",
+    "imageUrl": "https://img.avatardecoration.com/decorations/floral_harmony.png"
+  },
+  {
+    "id": "floral_harmony_sunburst",
+    "name": "Floral Harmony (Sunburst)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/floral_harmony_sunburst.png"
+  },
+  {
+    "id": "autumns_arbor",
+    "name": "Autumn's Arbor",
+    "imageUrl": "https://img.avatardecoration.com/decorations/autumns_arbor.png"
+  },
+  {
+    "id": "autumns_arbor_aurora",
+    "name": "Autumn's Arbor (Aurora)",
+    "imageUrl": "https://img.avatardecoration.com/decorations/autumns_arbor_aurora.png"
+  },
+  {
+    "id": "autumn_crown",
+    "name": "Autumn Crown",
+    "imageUrl": "https://img.avatardecoration.com/decorations/autumn_crown.png"
+  },
+  {
+    "id": "faces_of_the_moon",
+    "name": "Faces of the Moon",
+    "imageUrl": "https://img.avatardecoration.com/decorations/faces_of_the_moon.png"
+  },
+  {
+    "id": "fox_hat",
+    "name": "Fox Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fox_hat.png"
+  },
+  {
+    "id": "fox_hat_chestnut",
+    "name": "Chestnut Fox Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fox_hat_chestnut.png"
+  },
+  {
+    "id": "fox_hat_snow",
+    "name": "Snow Fox Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fox_hat_snow.png"
+  },
+  {
+    "id": "fall_leaves",
+    "name": "Fall Leaves",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fall_leaves.png"
+  },
+  {
+    "id": "fall_leaves_scarlet",
+    "name": "Scarlet Leaves",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fall_leaves_scarlet.png"
+  },
+  {
+    "id": "fall_leaves_woodland",
+    "name": "Woodland Leaves",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fall_leaves_woodland.png"
+  },
+  {
+    "id": "sakura",
+    "name": "Sakura",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura.png"
+  },
+  {
+    "id": "sakura_pink",
+    "name": "Pink Sakura",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura_pink.png"
+  },
+  {
+    "id": "sakura_ukon",
+    "name": "Ukon Sakura",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura_ukon.png"
+  },
+  {
+    "id": "frog_angry",
+    "name": "Angry Frog",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_angry.png"
+  },
+  {
+    "id": "frog_derpy",
+    "name": "Derpy Frog",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_derpy.png"
+  },
+  {
+    "id": "fried_egg",
+    "name": "Fried Egg",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fried_egg.png"
+  },
+  {
+    "id": "green_fried_egg",
+    "name": "Green Fried Egg",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_fried_egg.png"
+  },
+  {
+    "id": "morning_coffee",
+    "name": "Morning Coffee",
+    "imageUrl": "https://img.avatardecoration.com/decorations/morning_coffee.png"
+  },
+  {
+    "id": "toast",
+    "name": "Toast",
+    "imageUrl": "https://img.avatardecoration.com/decorations/toast.png"
+  },
+  {
+    "id": "burnt_toast",
+    "name": "Burnt Toast",
+    "imageUrl": "https://img.avatardecoration.com/decorations/burnt_toast.png"
+  },
+  {
+    "id": "stinkums",
+    "name": "Stinkums",
+    "imageUrl": "https://img.avatardecoration.com/decorations/stinkums.png"
+  },
+  {
+    "id": "goblin_stinkums",
+    "name": "Goblin Stinkums",
+    "imageUrl": "https://img.avatardecoration.com/decorations/goblin_stinkums.png"
+  },
+  {
+    "id": "kabuto",
+    "name": "Kabuto",
+    "imageUrl": "https://img.avatardecoration.com/decorations/kabuto.png"
+  },
+  {
+    "id": "oni_mask",
+    "name": "Oni Mask",
+    "imageUrl": "https://img.avatardecoration.com/decorations/oni_mask.png"
+  },
+  {
+    "id": "straw_hat",
+    "name": "Straw Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/straw_hat.png"
+  },
+  {
+    "id": "sakura_ink",
+    "name": "Sakura Ink",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura_ink.png"
+  },
+  {
+    "id": "sakura_warrior",
+    "name": "Sakura Warrior",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sakura_warrior.png"
+  },
+  {
+    "id": "shurikens_mask",
+    "name": "Shuriken's Mask",
+    "imageUrl": "https://img.avatardecoration.com/decorations/shurikens_mask.png"
+  },
+  {
+    "id": "valorant_champions_2024",
+    "name": "VALORANT Champions 2024",
+    "imageUrl": "https://img.avatardecoration.com/decorations/valorant_champions_2024.png"
+  },
+  {
+    "id": "yoru_dimensional_drift",
+    "name": "Yoru Dimensional Drift",
+    "imageUrl": "https://img.avatardecoration.com/decorations/yoru_dimensional_drift.png"
+  },
+  {
+    "id": "viper_poison_cloud",
+    "name": "Viper Poison Cloud",
+    "imageUrl": "https://img.avatardecoration.com/decorations/viper_poison_cloud.png"
+  },
+  {
+    "id": "cypher_neural_theft",
+    "name": "Cypher Neural Theft",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cypher_neural_theft.png"
+  },
+  {
+    "id": "a_hint_of_clove",
+    "name": "A Hint of Clove",
+    "imageUrl": "https://img.avatardecoration.com/decorations/a_hint_of_clove.png"
+  },
+  {
+    "id": "omens_cowl",
+    "name": "Omen's Cowl",
+    "imageUrl": "https://img.avatardecoration.com/decorations/omens_cowl.png"
+  },
+  {
+    "id": "reynas_leer",
+    "name": "Reyna's Leer",
+    "imageUrl": "https://img.avatardecoration.com/decorations/reynas_leer.png"
+  },
+  {
+    "id": "frag_out",
+    "name": "FRAG OUT",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frag_out.png"
+  },
+  {
+    "id": "blade_storm",
+    "name": "Blade Storm",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blade_storm.png"
+  },
+  {
+    "id": "spongebob",
+    "name": "SpongeBob",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spongebob.png"
+  },
+  {
+    "id": "imagination",
+    "name": "Imagination",
+    "imageUrl": "https://img.avatardecoration.com/decorations/imagination.png"
+  },
+  {
+    "id": "patrick_star",
+    "name": "Patrick Star",
+    "imageUrl": "https://img.avatardecoration.com/decorations/patrick_star.png"
+  },
+  {
+    "id": "flower_clouds",
+    "name": "Flower Clouds",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flower_clouds.png"
+  },
+  {
+    "id": "gary_the_snail",
+    "name": "Gary the Snail",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gary_the_snail.png"
+  },
+  {
+    "id": "sandy_cheeks",
+    "name": "Sandy Cheeks",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sandy_cheeks.png"
+  },
+  {
+    "id": "musclebob",
+    "name": "MuscleBob",
+    "imageUrl": "https://img.avatardecoration.com/decorations/musclebob.png"
+  },
+  {
+    "id": "midnight_sorceress",
+    "name": "Midnight Sorceress",
+    "imageUrl": "https://img.avatardecoration.com/decorations/midnight_sorceress.png"
+  },
+  {
+    "id": "malefic_crown",
+    "name": "Malefic Crown",
+    "imageUrl": "https://img.avatardecoration.com/decorations/malefic_crown.png"
+  },
+  {
+    "id": "deaths_edge",
+    "name": "Death's Edge",
+    "imageUrl": "https://img.avatardecoration.com/decorations/deaths_edge.png"
+  },
+  {
+    "id": "spirit_embers",
+    "name": "Spirit Embers",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spirit_embers.png"
+  },
+  {
+    "id": "eldritch_ring",
+    "name": "Eldritch Ring",
+    "imageUrl": "https://img.avatardecoration.com/decorations/eldritch_ring.png"
+  },
+  {
+    "id": "arcane_sigil",
+    "name": "Arcane Sigil",
+    "imageUrl": "https://img.avatardecoration.com/decorations/arcane_sigil.png"
+  },
+  {
+    "id": "chillet",
+    "name": "Chillet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chillet.png"
+  },
+  {
+    "id": "pal_sphere",
+    "name": "Pal Sphere",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pal_sphere.png"
+  },
+  {
+    "id": "cattiva",
+    "name": "Cattiva",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cattiva.png"
+  },
+  {
+    "id": "lamball",
+    "name": "Lamball",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lamball.png"
+  },
+  {
+    "id": "depresso",
+    "name": "Depresso",
+    "imageUrl": "https://img.avatardecoration.com/decorations/depresso.png"
+  },
+  {
+    "id": "selyne",
+    "name": "Selyne",
+    "imageUrl": "https://img.avatardecoration.com/decorations/selyne.png"
+  },
+  {
+    "id": "joystick",
+    "name": "Joystick",
+    "imageUrl": "https://img.avatardecoration.com/decorations/joystick.png"
+  },
+  {
+    "id": "clyde_invaders",
+    "name": "Clyde Invaders",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_invaders.png"
+  },
+  {
+    "id": "pipedream",
+    "name": "Pipedream",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pipedream.png"
+  },
+  {
+    "id": "hot_shot",
+    "name": "Hot Shot",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hot_shot.png"
+  },
+  {
+    "id": "mallow_jump",
+    "name": "Mallow Jump",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mallow_jump.png"
+  },
+  {
+    "id": "slither_n_snack",
+    "name": "Slither 'n Snack",
+    "imageUrl": "https://img.avatardecoration.com/decorations/slither_n_snack.png"
+  },
+  {
+    "id": "feelin_awe",
+    "name": "Feelin' Awe",
+    "imageUrl": "https://img.avatardecoration.com/decorations/feelin_awe.png"
+  },
+  {
+    "id": "feelin_panic",
+    "name": "Feelin' Panic",
+    "imageUrl": "https://img.avatardecoration.com/decorations/feelin_panic.png"
+  },
+  {
+    "id": "feelin_nervous",
+    "name": "Feelin' Nervous",
+    "imageUrl": "https://img.avatardecoration.com/decorations/feelin_nervous.png"
+  },
+  {
+    "id": "feelin_scrumptious",
+    "name": "Feelin' Scrumptious",
+    "imageUrl": "https://img.avatardecoration.com/decorations/feelin_scrumptious.png"
+  },
+  {
+    "id": "pirate_captain",
+    "name": "Pirate Captain",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pirate_captain.png"
+  },
+  {
+    "id": "scallywag",
+    "name": "Scallywag",
+    "imageUrl": "https://img.avatardecoration.com/decorations/scallywag.png"
+  },
+  {
+    "id": "good_ol_pepper",
+    "name": "Good Ol' Pepper",
+    "imageUrl": "https://img.avatardecoration.com/decorations/good_ol_pepper.png"
+  },
+  {
+    "id": "crossbones",
+    "name": "Crossbones",
+    "imageUrl": "https://img.avatardecoration.com/decorations/crossbones.png"
+  },
+  {
+    "id": "cannon_fire",
+    "name": "Cannon Fire",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cannon_fire.png"
+  },
+  {
+    "id": "helmsman",
+    "name": "Helmsman",
+    "imageUrl": "https://img.avatardecoration.com/decorations/helmsman.png"
+  },
+  {
+    "id": "stardust",
+    "name": "Stardust",
+    "imageUrl": "https://img.avatardecoration.com/decorations/stardust.png"
+  },
+  {
+    "id": "black_hole",
+    "name": "Black Hole",
+    "imageUrl": "https://img.avatardecoration.com/decorations/black_hole.png"
+  },
+  {
+    "id": "constellations",
+    "name": "Constellations",
+    "imageUrl": "https://img.avatardecoration.com/decorations/constellations.png"
+  },
+  {
+    "id": "solar_orbit",
+    "name": "Solar Orbit",
+    "imageUrl": "https://img.avatardecoration.com/decorations/solar_orbit.png"
+  },
+  {
+    "id": "ufo",
+    "name": "UFO",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ufo.png"
+  },
+  {
+    "id": "astronaut_helmet",
+    "name": "Astronaut Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/astronaut_helmet.png"
+  },
+  {
+    "id": "chromawave",
+    "name": "Chromawave",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chromawave.png"
+  },
+  {
+    "id": "cozy_cat",
+    "name": "Cozy Cat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cozy_cat.png"
+  },
+  {
+    "id": "oasis",
+    "name": "Oasis",
+    "imageUrl": "https://img.avatardecoration.com/decorations/oasis.png"
+  },
+  {
+    "id": "rainy_mood",
+    "name": "Rainy Mood",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rainy_mood.png"
+  },
+  {
+    "id": "cozy_headphones",
+    "name": "Cozy Headphones",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cozy_headphones.png"
+  },
+  {
+    "id": "doodling",
+    "name": "Doodling",
+    "imageUrl": "https://img.avatardecoration.com/decorations/doodling.png"
+  },
+  {
+    "id": "honeyblossom",
+    "name": "Honeyblossom",
+    "imageUrl": "https://img.avatardecoration.com/decorations/honeyblossom.png"
+  },
+  {
+    "id": "dandelion_duo",
+    "name": "Dandelion Duo",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dandelion_duo.png"
+  },
+  {
+    "id": "hugh_the_rainbow",
+    "name": "Hugh the Rainbow",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hugh_the_rainbow.png"
+  },
+  {
+    "id": "strawberry_vine",
+    "name": "Strawberry Vine",
+    "imageUrl": "https://img.avatardecoration.com/decorations/strawberry_vine.png"
+  },
+  {
+    "id": "butterflies",
+    "name": "Butterflies",
+    "imageUrl": "https://img.avatardecoration.com/decorations/butterflies.png"
+  },
+  {
+    "id": "the_petal_pack",
+    "name": "The Petal Pack",
+    "imageUrl": "https://img.avatardecoration.com/decorations/the_petal_pack.png"
+  },
+  {
+    "id": "cat_ears",
+    "name": "Cat Ears",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_ears.png"
+  },
+  {
+    "id": "ki_energy",
+    "name": "Ki Energy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ki_energy.png"
+  },
+  {
+    "id": "heartbloom",
+    "name": "Heartbloom",
+    "imageUrl": "https://img.avatardecoration.com/decorations/heartbloom.png"
+  },
+  {
+    "id": "dismay",
+    "name": "Dismay",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dismay.png"
+  },
+  {
+    "id": "rage",
+    "name": "Rage",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rage.png"
+  },
+  {
+    "id": "in_tears",
+    "name": "In Tears",
+    "imageUrl": "https://img.avatardecoration.com/decorations/in_tears.png"
+  },
+  {
+    "id": "radiating_energy",
+    "name": "Radiating Energy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/radiating_energy.png"
+  },
+  {
+    "id": "soul_leaving_body",
+    "name": "Soul Leaving Body",
+    "imageUrl": "https://img.avatardecoration.com/decorations/soul_leaving_body.png"
+  },
+  {
+    "id": "sweat_drops",
+    "name": "Sweat Drops",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sweat_drops.png"
+  },
+  {
+    "id": "starry_eyed",
+    "name": "Starry Eyed",
+    "imageUrl": "https://img.avatardecoration.com/decorations/starry_eyed.png"
+  },
+  {
+    "id": "in_love",
+    "name": "In Love",
+    "imageUrl": "https://img.avatardecoration.com/decorations/in_love.png"
+  },
+  {
+    "id": "shocked",
+    "name": "Shocked",
+    "imageUrl": "https://img.avatardecoration.com/decorations/shocked.png"
+  },
+  {
+    "id": "angry",
+    "name": "Angry",
+    "imageUrl": "https://img.avatardecoration.com/decorations/angry.png"
+  },
+  {
+    "id": "fire",
+    "name": "Fire",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fire.png"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "imageUrl": "https://img.avatardecoration.com/decorations/water.png"
+  },
+  {
+    "id": "air",
+    "name": "Air",
+    "imageUrl": "https://img.avatardecoration.com/decorations/air.png"
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "imageUrl": "https://img.avatardecoration.com/decorations/earth.png"
+  },
+  {
+    "id": "lightning",
+    "name": "Lightning",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lightning.png"
+  },
+  {
+    "id": "balance",
+    "name": "Balance",
+    "imageUrl": "https://img.avatardecoration.com/decorations/balance.png"
+  },
+  {
+    "id": "glitch",
+    "name": "Glitch",
+    "imageUrl": "https://img.avatardecoration.com/decorations/glitch.png"
+  },
+  {
+    "id": "cybernetic",
+    "name": "Cybernetic",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cybernetic.png"
+  },
+  {
+    "id": "digital_sunrise",
+    "name": "Digital Sunrise",
+    "imageUrl": "https://img.avatardecoration.com/decorations/digital_sunrise.png"
+  },
+  {
+    "id": "implant",
+    "name": "Implant",
+    "imageUrl": "https://img.avatardecoration.com/decorations/implant.png"
+  },
+  {
+    "id": "beamchop",
+    "name": "Beamchop",
+    "imageUrl": "https://img.avatardecoration.com/decorations/beamchop.png"
+  },
+  {
+    "id": "chuck",
+    "name": "Chuck",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chuck.png"
+  },
+  {
+    "id": "winkle",
+    "name": "Winkle",
+    "imageUrl": "https://img.avatardecoration.com/decorations/winkle.png"
+  },
+  {
+    "id": "chewbert",
+    "name": "Chewbert",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chewbert.png"
+  },
+  {
+    "id": "doodlezard",
+    "name": "Doodlezard",
+    "imageUrl": "https://img.avatardecoration.com/decorations/doodlezard.png"
+  },
+  {
+    "id": "glop",
+    "name": "Glop",
+    "imageUrl": "https://img.avatardecoration.com/decorations/glop.png"
+  },
+  {
+    "id": "gawblehop",
+    "name": "Gawblehop",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gawblehop.png"
+  },
+  {
+    "id": "new_year_2024",
+    "name": "New Year",
+    "imageUrl": "https://img.avatardecoration.com/decorations/new_year_2024.png"
+  },
+  {
+    "id": "graveyard_cat",
+    "name": "Graveyard Cat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graveyard_cat.png"
+  },
+  {
+    "id": "ghosts",
+    "name": "Ghosts",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ghosts.png"
+  },
+  {
+    "id": "minions",
+    "name": "Minions",
+    "imageUrl": "https://img.avatardecoration.com/decorations/minions.png"
+  },
+  {
+    "id": "jack_o_lantern",
+    "name": "Jack-o'-Lantern",
+    "imageUrl": "https://img.avatardecoration.com/decorations/jack_o_lantern.png"
+  },
+  {
+    "id": "pumpkin_spice",
+    "name": "Pumpkin Spice",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pumpkin_spice.png"
+  },
+  {
+    "id": "frog_hat",
+    "name": "Frog Hat",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_hat.png"
+  },
+  {
+    "id": "blueberry_jam",
+    "name": "Blueberry Jam",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blueberry_jam.png"
+  },
+  {
+    "id": "donut",
+    "name": "Donut",
+    "imageUrl": "https://img.avatardecoration.com/decorations/donut.png"
+  },
+  {
+    "id": "pancakes",
+    "name": "Pancakes",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pancakes.png"
+  },
+  {
+    "id": "disxcore_headset",
+    "name": "DISXCORE Headset",
+    "imageUrl": "https://img.avatardecoration.com/decorations/disxcore_headset.png"
+  },
+  {
+    "id": "pink_futuristic_ui",
+    "name": "Futuristic UI",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_futuristic_ui.png"
+  },
+  {
+    "id": "green_smoke",
+    "name": "Smoke",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_smoke.png"
+  },
+  {
+    "id": "pink_headset",
+    "name": "Pink Headset",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_headset.png"
+  },
+  {
+    "id": "green_headset",
+    "name": "Green Headset",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_headset.png"
+  },
+  {
+    "id": "blue_futuristic_ui",
+    "name": "Blue Futuristic UI",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue_futuristic_ui.png"
+  },
+  {
+    "id": "green_futuristic_ui",
+    "name": "Green Futuristic UI",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_futuristic_ui.png"
+  },
+  {
+    "id": "blue_smoke",
+    "name": "Blue Smoke",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue_smoke.png"
+  },
+  {
+    "id": "pink_smoke",
+    "name": "Pink Smoke",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_smoke.png"
+  },
+  {
+    "id": "blue_gyroscope",
+    "name": "Blue Gyroscope",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue_gyroscope.png"
+  },
+  {
+    "id": "pink_gyroscope",
+    "name": "Pink Gyroscope",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_gyroscope.png"
+  },
+  {
+    "id": "green_gyroscope",
+    "name": "Green Gyroscope",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_gyroscope.png"
+  },
+  {
+    "id": "blue_shine_helmet",
+    "name": "Blue Shine Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue_shine_helmet.png"
+  },
+  {
+    "id": "pink_shine_helmet",
+    "name": "Pink Shine Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_shine_helmet.png"
+  },
+  {
+    "id": "green_shine_helmet",
+    "name": "Green Shine Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_shine_helmet.png"
+  },
+  {
+    "id": "blue_hyper_helmet",
+    "name": "Blue Hyper Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue_hyper_helmet.png"
+  },
+  {
+    "id": "pink_hyper_helmet",
+    "name": "Pink Hyper Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink_hyper_helmet.png"
+  },
+  {
+    "id": "green_hyper_helmet",
+    "name": "Green Hyper Helmet",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green_hyper_helmet.png"
+  },
+  {
+    "id": "saw",
+    "name": "Saw",
+    "imageUrl": "https://img.avatardecoration.com/decorations/saw.png"
+  },
+  {
+    "id": "mushroom_1",
+    "name": "Mushroom #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mushroom_1.png"
+  },
+  {
+    "id": "mushroom_2",
+    "name": "Mushroom #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mushroom_2.png"
+  },
+  {
+    "id": "mushroom_3",
+    "name": "Mushroom #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mushroom_3.png"
+  },
+  {
+    "id": "mushroom_4",
+    "name": "Mushroom #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mushroom_4.png"
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "imageUrl": "https://img.avatardecoration.com/decorations/forest.png"
+  },
+  {
+    "id": "frog_1",
+    "name": "Frog #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_1.png"
+  },
+  {
+    "id": "frog_3",
+    "name": "Frog #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_3.png"
+  },
+  {
+    "id": "cat_1",
+    "name": "Lazy Cat #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_1.png"
+  },
+  {
+    "id": "cat_2",
+    "name": "Lazy Cat #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_2.png"
+  },
+  {
+    "id": "cat_3",
+    "name": "Lazy Cat #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_3.png"
+  },
+  {
+    "id": "cat_4",
+    "name": "Lazy Cat #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cat_4.png"
+  },
+  {
+    "id": "dog_1",
+    "name": "Dogs #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dog_1.png"
+  },
+  {
+    "id": "dog_2",
+    "name": "Dogs #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dog_2.png"
+  },
+  {
+    "id": "dog_3",
+    "name": "Dogs #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dog_3.png"
+  },
+  {
+    "id": "blanket_green",
+    "name": "Green Blanket",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blanket_green.png"
+  },
+  {
+    "id": "blanket_orange",
+    "name": "Orange Blanket",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blanket_orange.png"
+  },
+  {
+    "id": "blanket_pink",
+    "name": "Pink Blanket",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blanket_pink.png"
+  },
+  {
+    "id": "blanket_purple",
+    "name": "Purple Blanket",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blanket_purple.png"
+  },
+  {
+    "id": "box_white_blue",
+    "name": "White Box",
+    "imageUrl": "https://img.avatardecoration.com/decorations/box_white_blue.png"
+  },
+  {
+    "id": "box_blue_yellow",
+    "name": "Blue Box",
+    "imageUrl": "https://img.avatardecoration.com/decorations/box_blue_yellow.png"
+  },
+  {
+    "id": "box_green_red",
+    "name": "Green Box",
+    "imageUrl": "https://img.avatardecoration.com/decorations/box_green_red.png"
+  },
+  {
+    "id": "box_red_white",
+    "name": "Red Box",
+    "imageUrl": "https://img.avatardecoration.com/decorations/box_red_white.png"
+  },
+  {
+    "id": "box_red_white_blue",
+    "name": "Red White Box",
+    "imageUrl": "https://img.avatardecoration.com/decorations/box_red_white_blue.png"
+  },
+  {
+    "id": "confetti_festive",
+    "name": "Festive Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_festive.png"
+  },
+  {
+    "id": "confetti_fire",
+    "name": "Fire Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_fire.png"
+  },
+  {
+    "id": "confetti_ice",
+    "name": "Ice Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_ice.png"
+  },
+  {
+    "id": "confetti_mint",
+    "name": "Mint Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_mint.png"
+  },
+  {
+    "id": "confetti_star",
+    "name": "Star Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_star.png"
+  },
+  {
+    "id": "confetti_vaporwave",
+    "name": "Vaporwave Confetti",
+    "imageUrl": "https://img.avatardecoration.com/decorations/confetti_vaporwave.png"
+  },
+  {
+    "id": "ice_cube",
+    "name": "Icecube",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ice_cube.png"
+  },
+  {
+    "id": "icicle_gleaming",
+    "name": "Gleaming Icicle",
+    "imageUrl": "https://img.avatardecoration.com/decorations/icicle_gleaming.png"
+  },
+  {
+    "id": "icicle_snowing",
+    "name": "Snowing Icicle",
+    "imageUrl": "https://img.avatardecoration.com/decorations/icicle_snowing.png"
+  },
+  {
+    "id": "teacup_blue",
+    "name": "Blue Teacup",
+    "imageUrl": "https://img.avatardecoration.com/decorations/teacup_blue.png"
+  },
+  {
+    "id": "teacup_orange",
+    "name": "Orange Teacup",
+    "imageUrl": "https://img.avatardecoration.com/decorations/teacup_orange.png"
+  },
+  {
+    "id": "teacup_pink",
+    "name": "Pink Teacup",
+    "imageUrl": "https://img.avatardecoration.com/decorations/teacup_pink.png"
+  },
+  {
+    "id": "teacup_red",
+    "name": "Red Teacup",
+    "imageUrl": "https://img.avatardecoration.com/decorations/teacup_red.png"
+  },
+  {
+    "id": "lunar_new_year_2025",
+    "name": "Lunar New Year 2025",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lunar_new_year_2025.png"
+  },
+  {
+    "id": "steampunk",
+    "name": "Steampunk",
+    "imageUrl": "https://img.avatardecoration.com/decorations/steampunk.png"
+  },
+  {
+    "id": "fantasy_2",
+    "name": "Fantasy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fantasy_2.png"
+  },
+  {
+    "id": "winter_wonderland_2024",
+    "name": "Winter Wonderland",
+    "imageUrl": "https://img.avatardecoration.com/decorations/winter_wonderland_2024.png"
+  },
+  {
+    "id": "lofi_girl",
+    "name": "Lofi Girl",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lofi_girl.png"
+  },
+  {
+    "id": "kawaii_mode",
+    "name": "Kawaii Mode",
+    "imageUrl": "https://img.avatardecoration.com/decorations/kawaii_mode.png"
+  },
+  {
+    "id": "arcane",
+    "name": "Arcane",
+    "imageUrl": "https://img.avatardecoration.com/decorations/arcane.png"
+  },
+  {
+    "id": "dungeons_and_dragons",
+    "name": "Dungeons & Dragons",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dungeons_and_dragons.png"
+  },
+  {
+    "id": "spooky_night",
+    "name": "Spooky Night",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spooky_night.png"
+  },
+  {
+    "id": "street_fighter",
+    "name": "Street Fighter",
+    "imageUrl": "https://img.avatardecoration.com/decorations/street_fighter.png"
+  },
+  {
+    "id": "autumn_equinox",
+    "name": "Autumn Equinox",
+    "imageUrl": "https://img.avatardecoration.com/decorations/autumn_equinox.png"
+  },
+  {
+    "id": "dojo",
+    "name": "Dojo",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dojo.png"
+  },
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "imageUrl": "https://img.avatardecoration.com/decorations/palworld.png"
+  },
+  {
+    "id": "arcade",
+    "name": "Arcade",
+    "imageUrl": "https://img.avatardecoration.com/decorations/arcade.png"
+  },
+  {
+    "id": "retro",
+    "name": "Retro",
+    "imageUrl": "https://img.avatardecoration.com/decorations/retro.png"
+  },
+  {
+    "id": "galaxy",
+    "name": "Galaxy",
+    "imageUrl": "https://img.avatardecoration.com/decorations/galaxy.png"
+  },
+  {
+    "id": "lofi",
+    "name": "Lofi",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lofi.png"
+  },
+  {
+    "id": "valorant",
+    "name": "Valorant",
+    "imageUrl": "https://img.avatardecoration.com/decorations/valorant.png"
+  },
+  {
+    "id": "blue",
+    "name": "Blue",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blue.png"
+  },
+  {
+    "id": "gray",
+    "name": "Gray",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gray.png"
+  },
+  {
+    "id": "green",
+    "name": "Green",
+    "imageUrl": "https://img.avatardecoration.com/decorations/green.png"
+  },
+  {
+    "id": "yellow",
+    "name": "Yellow",
+    "imageUrl": "https://img.avatardecoration.com/decorations/yellow.png"
+  },
+  {
+    "id": "red",
+    "name": "Red",
+    "imageUrl": "https://img.avatardecoration.com/decorations/red.png"
+  },
+  {
+    "id": "pink",
+    "name": "Pink",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pink.png"
+  },
+  {
+    "id": "blurple",
+    "name": "Blurple",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blurple.png"
+  },
+  {
+    "id": "goth",
+    "name": "Goth",
+    "imageUrl": "https://img.avatardecoration.com/decorations/goth.png"
+  },
+  {
+    "id": "wham",
+    "name": "WHAM",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wham.png"
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "imageUrl": "https://img.avatardecoration.com/decorations/charcoal.png"
+  },
+  {
+    "id": "ceramic",
+    "name": "Ceramic",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ceramic.png"
+  },
+  {
+    "id": "pastel",
+    "name": "Pastel",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pastel.png"
+  },
+  {
+    "id": "matey",
+    "name": "Matey",
+    "imageUrl": "https://img.avatardecoration.com/decorations/matey.png"
+  },
+  {
+    "id": "tactical",
+    "name": "Tactical",
+    "imageUrl": "https://img.avatardecoration.com/decorations/tactical.png"
+  },
+  {
+    "id": "sunset_ave",
+    "name": "Sunset Ave",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sunset_ave.png"
+  },
+  {
+    "id": "galactic_chrome",
+    "name": "Galactic Chrome",
+    "imageUrl": "https://img.avatardecoration.com/decorations/galactic_chrome.png"
+  },
+  {
+    "id": "holo",
+    "name": "Holo",
+    "imageUrl": "https://img.avatardecoration.com/decorations/holo.png"
+  },
+  {
+    "id": "sherbet_dreamsicle",
+    "name": "Sherbet Dreamsicle",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sherbet_dreamsicle.png"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gaming.png"
+  },
+  {
+    "id": "mainframe",
+    "name": "Mainframe",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mainframe.png"
+  },
+  {
+    "id": "prismatic_waves",
+    "name": "Prismatic Waves",
+    "imageUrl": "https://img.avatardecoration.com/decorations/prismatic_waves.png"
+  },
+  {
+    "id": "fuming",
+    "name": "Fuming",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fuming.png"
+  },
+  {
+    "id": "d64",
+    "name": "D64",
+    "imageUrl": "https://img.avatardecoration.com/decorations/d64.png"
+  },
+  {
+    "id": "blurple_twilight",
+    "name": "Blurple Twilight",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blurple_twilight.png"
+  },
+  {
+    "id": "in_rainbows",
+    "name": "In Rainbows",
+    "imageUrl": "https://img.avatardecoration.com/decorations/in_rainbows.png"
+  },
+  {
+    "id": "midnight_prism",
+    "name": "Midnight Prism",
+    "imageUrl": "https://img.avatardecoration.com/decorations/midnight_prism.png"
+  },
+  {
+    "id": "color_wave",
+    "name": "Color Wave",
+    "imageUrl": "https://img.avatardecoration.com/decorations/color_wave.png"
+  },
+  {
+    "id": "classic_blue",
+    "name": "Classic Blue",
+    "imageUrl": "https://img.avatardecoration.com/decorations/classic_blue.png"
+  },
+  {
+    "id": "classic_gray",
+    "name": "Classic Gray",
+    "imageUrl": "https://img.avatardecoration.com/decorations/classic_gray.png"
+  },
+  {
+    "id": "classic_green",
+    "name": "Classic Green",
+    "imageUrl": "https://img.avatardecoration.com/decorations/classic_green.png"
+  },
+  {
+    "id": "classic_yellow",
+    "name": "Classic Yellow",
+    "imageUrl": "https://img.avatardecoration.com/decorations/classic_yellow.png"
+  },
+  {
+    "id": "classic_red",
+    "name": "Classic Red",
+    "imageUrl": "https://img.avatardecoration.com/decorations/classic_red.png"
+  },
+  {
+    "id": "automod_1",
+    "name": "Automod #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/automod_1.png"
+  },
+  {
+    "id": "clyde_ai_1",
+    "name": "Clyde AI #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_ai_1.png"
+  },
+  {
+    "id": "ander_1",
+    "name": "Ander #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ander_1.png"
+  },
+  {
+    "id": "ander_2",
+    "name": "Ander #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ander_2.png"
+  },
+  {
+    "id": "ander_3",
+    "name": "Ander #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ander_3.png"
+  },
+  {
+    "id": "ander_4",
+    "name": "Ander #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ander_4.png"
+  },
+  {
+    "id": "annabel_1",
+    "name": "Annabel #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/annabel_1.png"
+  },
+  {
+    "id": "bartender_1",
+    "name": "Bartender #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bartender_1.png"
+  },
+  {
+    "id": "bento_1",
+    "name": "Bento #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bento_1.png"
+  },
+  {
+    "id": "big_bird_1",
+    "name": "Big Bird #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/big_bird_1.png"
+  },
+  {
+    "id": "bill_1",
+    "name": "Bill #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bill_1.png"
+  },
+  {
+    "id": "birb_1",
+    "name": "Birb #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/birb_1.png"
+  },
+  {
+    "id": "bling_1",
+    "name": "Bling #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bling_1.png"
+  },
+  {
+    "id": "blink_1",
+    "name": "Blink #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blink_1.png"
+  },
+  {
+    "id": "blip_1",
+    "name": "Blip #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blip_1.png"
+  },
+  {
+    "id": "blip_2",
+    "name": "Blip #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/blip_2.png"
+  },
+  {
+    "id": "bonbon_1",
+    "name": "Bonbon #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bonbon_1.png"
+  },
+  {
+    "id": "bonbon_2",
+    "name": "Bonbon #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bonbon_2.png"
+  },
+  {
+    "id": "boomer_1",
+    "name": "Boomer #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/boomer_1.png"
+  },
+  {
+    "id": "bopper_1",
+    "name": "Bopper #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bopper_1.png"
+  },
+  {
+    "id": "bopper_2",
+    "name": "Bopper #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bopper_2.png"
+  },
+  {
+    "id": "bouncer_1",
+    "name": "Bouncer #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bouncer_1.png"
+  },
+  {
+    "id": "brainy_1",
+    "name": "Brainy #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/brainy_1.png"
+  },
+  {
+    "id": "brib_1",
+    "name": "Brib #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/brib_1.png"
+  },
+  {
+    "id": "bunny_man_1",
+    "name": "Bunny Man #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/bunny_man_1.png"
+  },
+  {
+    "id": "cacdude_1",
+    "name": "Cacdude #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cacdude_1.png"
+  },
+  {
+    "id": "cambrella_1",
+    "name": "Cambrella #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cambrella_1.png"
+  },
+  {
+    "id": "camie_1",
+    "name": "Camie #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/camie_1.png"
+  },
+  {
+    "id": "cap_1",
+    "name": "Cap #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_1.png"
+  },
+  {
+    "id": "cap_2",
+    "name": "Cap #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_2.png"
+  },
+  {
+    "id": "cap_3",
+    "name": "Cap #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_3.png"
+  },
+  {
+    "id": "cap_4",
+    "name": "Cap #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_4.png"
+  },
+  {
+    "id": "cap_5",
+    "name": "Cap #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_5.png"
+  },
+  {
+    "id": "cap_6",
+    "name": "Cap #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_6.png"
+  },
+  {
+    "id": "cap_7",
+    "name": "Cap #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_7.png"
+  },
+  {
+    "id": "cap_8",
+    "name": "Cap #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cap_8.png"
+  },
+  {
+    "id": "capper_1",
+    "name": "Capper #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/capper_1.png"
+  },
+  {
+    "id": "capper_2",
+    "name": "Capper #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/capper_2.png"
+  },
+  {
+    "id": "chance_1",
+    "name": "Chance #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chance_1.png"
+  },
+  {
+    "id": "cherry_1",
+    "name": "Cherry #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/cherry_1.png"
+  },
+  {
+    "id": "chief_1",
+    "name": "Chief #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chief_1.png"
+  },
+  {
+    "id": "chiller_1",
+    "name": "Chiller #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/chiller_1.png"
+  },
+  {
+    "id": "clyde_1",
+    "name": "Clyde #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_1.png"
+  },
+  {
+    "id": "clyde_2",
+    "name": "Clyde #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_2.png"
+  },
+  {
+    "id": "clyde_3",
+    "name": "Clyde #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_3.png"
+  },
+  {
+    "id": "clyde_4",
+    "name": "Clyde #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_4.png"
+  },
+  {
+    "id": "clyde_6",
+    "name": "Clyde #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_6.png"
+  },
+  {
+    "id": "clyde_7",
+    "name": "Clyde #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_7.png"
+  },
+  {
+    "id": "clyde_8",
+    "name": "Clyde #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_8.png"
+  },
+  {
+    "id": "clyde_9",
+    "name": "Clyde #9",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_9.png"
+  },
+  {
+    "id": "clyde_10",
+    "name": "Clyde #10",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_10.png"
+  },
+  {
+    "id": "clyde_11",
+    "name": "Clyde #11",
+    "imageUrl": "https://img.avatardecoration.com/decorations/clyde_11.png"
+  },
+  {
+    "id": "dee_1",
+    "name": "Dee #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/dee_1.png"
+  },
+  {
+    "id": "doodie_1",
+    "name": "Doodie #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/doodie_1.png"
+  },
+  {
+    "id": "d20_1",
+    "name": "D–20 #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/d20_1.png"
+  },
+  {
+    "id": "elmer_1",
+    "name": "Elmer #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/elmer_1.png"
+  },
+  {
+    "id": "fairy_1",
+    "name": "Fairy #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fairy_1.png"
+  },
+  {
+    "id": "fang_1",
+    "name": "Fang #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fang_1.png"
+  },
+  {
+    "id": "felippe_1",
+    "name": "Felippe #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/felippe_1.png"
+  },
+  {
+    "id": "fighter_1",
+    "name": "Fighter #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/fighter_1.png"
+  },
+  {
+    "id": "flipper_1",
+    "name": "Flipper #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flipper_1.png"
+  },
+  {
+    "id": "floop_1",
+    "name": "Floop #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/floop_1.png"
+  },
+  {
+    "id": "floop_2",
+    "name": "Floop #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/floop_2.png"
+  },
+  {
+    "id": "floop_3",
+    "name": "Floop #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/floop_3.png"
+  },
+  {
+    "id": "flynn_1",
+    "name": "Flynn #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/flynn_1.png"
+  },
+  {
+    "id": "frog_stranger_1",
+    "name": "Frog Stranger #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/frog_stranger_1.png"
+  },
+  {
+    "id": "froge_1",
+    "name": "Froge #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_1.png"
+  },
+  {
+    "id": "froge_2",
+    "name": "Froge #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_2.png"
+  },
+  {
+    "id": "froge_3",
+    "name": "Froge #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_3.png"
+  },
+  {
+    "id": "froge_4",
+    "name": "Froge #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_4.png"
+  },
+  {
+    "id": "froge_5",
+    "name": "Froge #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_5.png"
+  },
+  {
+    "id": "froge_6",
+    "name": "Froge #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_6.png"
+  },
+  {
+    "id": "froge_7",
+    "name": "Froge #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_7.png"
+  },
+  {
+    "id": "froge_8",
+    "name": "Froge #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_8.png"
+  },
+  {
+    "id": "froge_9",
+    "name": "Froge #9",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_9.png"
+  },
+  {
+    "id": "froge_10",
+    "name": "Froge #10",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_10.png"
+  },
+  {
+    "id": "froge_11",
+    "name": "Froge #11",
+    "imageUrl": "https://img.avatardecoration.com/decorations/froge_11.png"
+  },
+  {
+    "id": "gero_1",
+    "name": "Gero #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gero_1.png"
+  },
+  {
+    "id": "gill_1",
+    "name": "Gill #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gill_1.png"
+  },
+  {
+    "id": "gnarf_1",
+    "name": "Gnarf #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gnarf_1.png"
+  },
+  {
+    "id": "gobbi_1",
+    "name": "Gobbi #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/gobbi_1.png"
+  },
+  {
+    "id": "graggle_1",
+    "name": "Graggle #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_1.png"
+  },
+  {
+    "id": "graggle_2",
+    "name": "Graggle #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_2.png"
+  },
+  {
+    "id": "graggle_3",
+    "name": "Graggle #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_3.png"
+  },
+  {
+    "id": "graggle_4",
+    "name": "Graggle #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_4.png"
+  },
+  {
+    "id": "graggle_5",
+    "name": "Graggle #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_5.png"
+  },
+  {
+    "id": "graggle_6",
+    "name": "Graggle #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_6.png"
+  },
+  {
+    "id": "graggle_7",
+    "name": "Graggle #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/graggle_7.png"
+  },
+  {
+    "id": "grimma_1",
+    "name": "Grimma #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/grimma_1.png"
+  },
+  {
+    "id": "hand_1",
+    "name": "Hand #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hand_1.png"
+  },
+  {
+    "id": "hark_1",
+    "name": "Hark #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hark_1.png"
+  },
+  {
+    "id": "hello_1",
+    "name": "Hello #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/hello_1.png"
+  },
+  {
+    "id": "house_1",
+    "name": "House #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/house_1.png"
+  },
+  {
+    "id": "klayden_1",
+    "name": "Klayden #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/klayden_1.png"
+  },
+  {
+    "id": "lady_1",
+    "name": "Lady #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lady_1.png"
+  },
+  {
+    "id": "lady_2",
+    "name": "Lady #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lady_2.png"
+  },
+  {
+    "id": "lemon_1",
+    "name": "Lemon #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lemon_1.png"
+  },
+  {
+    "id": "leon_1",
+    "name": "Leon #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/leon_1.png"
+  },
+  {
+    "id": "leon_2",
+    "name": "Leon #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/leon_2.png"
+  },
+  {
+    "id": "lime_1",
+    "name": "Lime #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lime_1.png"
+  },
+  {
+    "id": "linda_1",
+    "name": "Linda #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/linda_1.png"
+  },
+  {
+    "id": "locke_1",
+    "name": "Locke #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/locke_1.png"
+  },
+  {
+    "id": "locke_2",
+    "name": "Locke #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/locke_2.png"
+  },
+  {
+    "id": "locke_3",
+    "name": "Locke #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/locke_3.png"
+  },
+  {
+    "id": "lukid_1",
+    "name": "Lukid #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/lukid_1.png"
+  },
+  {
+    "id": "mason_1",
+    "name": "Mason #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/mason_1.png"
+  },
+  {
+    "id": "megatron_1",
+    "name": "Megatron #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/megatron_1.png"
+  },
+  {
+    "id": "milo_1",
+    "name": "Milo #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/milo_1.png"
+  },
+  {
+    "id": "milo_2",
+    "name": "Milo #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/milo_2.png"
+  },
+  {
+    "id": "moe_1",
+    "name": "Moe #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/moe_1.png"
+  },
+  {
+    "id": "morf_1",
+    "name": "Morf #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/morf_1.png"
+  },
+  {
+    "id": "nelly_1",
+    "name": "Nelly #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_1.png"
+  },
+  {
+    "id": "nelly_2",
+    "name": "Nelly #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_2.png"
+  },
+  {
+    "id": "nelly_3",
+    "name": "Nelly #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_3.png"
+  },
+  {
+    "id": "nelly_4",
+    "name": "Nelly #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_4.png"
+  },
+  {
+    "id": "nelly_5",
+    "name": "Nelly #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_5.png"
+  },
+  {
+    "id": "nelly_6",
+    "name": "Nelly #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nelly_6.png"
+  },
+  {
+    "id": "nerm_1",
+    "name": "Nerm #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/nerm_1.png"
+  },
+  {
+    "id": "noah_1",
+    "name": "Noah #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/noah_1.png"
+  },
+  {
+    "id": "noodle_1",
+    "name": "Noodle #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/noodle_1.png"
+  },
+  {
+    "id": "noodle_2",
+    "name": "Noodle #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/noodle_2.png"
+  },
+  {
+    "id": "oiseau_1",
+    "name": "Oiseau #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/oiseau_1.png"
+  },
+  {
+    "id": "ono_1",
+    "name": "Ono #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ono_1.png"
+  },
+  {
+    "id": "ono_2",
+    "name": "Ono #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/ono_2.png"
+  },
+  {
+    "id": "oslow_1",
+    "name": "Oslow #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/oslow_1.png"
+  },
+  {
+    "id": "painter_1",
+    "name": "Painter #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/painter_1.png"
+  },
+  {
+    "id": "pawn_1",
+    "name": "Pawn #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pawn_1.png"
+  },
+  {
+    "id": "pea_1",
+    "name": "Pea #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pea_1.png"
+  },
+  {
+    "id": "peachy_1",
+    "name": "Peachy #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peachy_1.png"
+  },
+  {
+    "id": "peeper_1",
+    "name": "Peeper #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peeper_1.png"
+  },
+  {
+    "id": "peppe_1",
+    "name": "Peppe #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_1.png"
+  },
+  {
+    "id": "peppe_2",
+    "name": "Peppe #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_2.png"
+  },
+  {
+    "id": "peppe_3",
+    "name": "Peppe #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_3.png"
+  },
+  {
+    "id": "peppe_4",
+    "name": "Peppe #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_4.png"
+  },
+  {
+    "id": "peppe_5",
+    "name": "Peppe #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_5.png"
+  },
+  {
+    "id": "peppe_6",
+    "name": "Peppe #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_6.png"
+  },
+  {
+    "id": "peppe_7",
+    "name": "Peppe #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_7.png"
+  },
+  {
+    "id": "peppe_8",
+    "name": "Peppe #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_8.png"
+  },
+  {
+    "id": "peppe_9",
+    "name": "Peppe #9",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_9.png"
+  },
+  {
+    "id": "peppe_10",
+    "name": "Peppe #10",
+    "imageUrl": "https://img.avatardecoration.com/decorations/peppe_10.png"
+  },
+  {
+    "id": "petal_1",
+    "name": "Petal #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/petal_1.png"
+  },
+  {
+    "id": "phibi_1",
+    "name": "Phibi #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/phibi_1.png"
+  },
+  {
+    "id": "pinky_1",
+    "name": "Pinky #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pinky_1.png"
+  },
+  {
+    "id": "pinky_2",
+    "name": "Pinky #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/pinky_2.png"
+  },
+  {
+    "id": "quirk_1",
+    "name": "Quirk #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/quirk_1.png"
+  },
+  {
+    "id": "rezzy_1",
+    "name": "Rezzy #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rezzy_1.png"
+  },
+  {
+    "id": "river_1",
+    "name": "River #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/river_1.png"
+  },
+  {
+    "id": "roach_1",
+    "name": "Roach #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/roach_1.png"
+  },
+  {
+    "id": "robot_1",
+    "name": "Robot #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_1.png"
+  },
+  {
+    "id": "robot_2",
+    "name": "Robot #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_2.png"
+  },
+  {
+    "id": "robot_3",
+    "name": "Robot #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_3.png"
+  },
+  {
+    "id": "robot_4",
+    "name": "Robot #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_4.png"
+  },
+  {
+    "id": "robot_5",
+    "name": "Robot #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_5.png"
+  },
+  {
+    "id": "robot_6",
+    "name": "Robot #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_6.png"
+  },
+  {
+    "id": "robot_7",
+    "name": "Robot #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_7.png"
+  },
+  {
+    "id": "robot_8",
+    "name": "Robot #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/robot_8.png"
+  },
+  {
+    "id": "roka_1",
+    "name": "Roka #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/roka_1.png"
+  },
+  {
+    "id": "rumi_1",
+    "name": "Rumi #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/rumi_1.png"
+  },
+  {
+    "id": "sandmich_1",
+    "name": "Sandmich #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sandmich_1.png"
+  },
+  {
+    "id": "scena_1",
+    "name": "Scena #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/scena_1.png"
+  },
+  {
+    "id": "scotty_1",
+    "name": "Scotty #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/scotty_1.png"
+  },
+  {
+    "id": "skull_1",
+    "name": "Skull #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/skull_1.png"
+  },
+  {
+    "id": "sleepy_dragon_1",
+    "name": "Sleepy Dragon #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/sleepy_dragon_1.png"
+  },
+  {
+    "id": "slormp_1",
+    "name": "Slormp #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/slormp_1.png"
+  },
+  {
+    "id": "smandwitch_1",
+    "name": "Smandwitch #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/smandwitch_1.png"
+  },
+  {
+    "id": "smeed_1",
+    "name": "Smeed #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/smeed_1.png"
+  },
+  {
+    "id": "smeed_2",
+    "name": "Smeed #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/smeed_2.png"
+  },
+  {
+    "id": "snail_1",
+    "name": "Snail #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snail_1.png"
+  },
+  {
+    "id": "snap_1",
+    "name": "Snap #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snap_1.png"
+  },
+  {
+    "id": "snek_1",
+    "name": "Snek #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snek_1.png"
+  },
+  {
+    "id": "snumpus_1",
+    "name": "Snumpus #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/snumpus_1.png"
+  },
+  {
+    "id": "space_brain_1",
+    "name": "Space Brain #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/space_brain_1.png"
+  },
+  {
+    "id": "speece_1",
+    "name": "Speece #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/speece_1.png"
+  },
+  {
+    "id": "speek_1",
+    "name": "Speek #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/speek_1.png"
+  },
+  {
+    "id": "spime_1",
+    "name": "Spime #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/spime_1.png"
+  },
+  {
+    "id": "steve_1",
+    "name": "Steve #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/steve_1.png"
+  },
+  {
+    "id": "stork_2",
+    "name": "Stork #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/stork_2.png"
+  },
+  {
+    "id": "stork_1",
+    "name": "Stork #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/stork_1.png"
+  },
+  {
+    "id": "strech_1",
+    "name": "Strech #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/strech_1.png"
+  },
+  {
+    "id": "swirl_1",
+    "name": "Swirl #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/swirl_1.png"
+  },
+  {
+    "id": "tan_1",
+    "name": "Tan #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/tan_1.png"
+  },
+  {
+    "id": "thawne_1",
+    "name": "Thawne #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/thawne_1.png"
+  },
+  {
+    "id": "thonk_1",
+    "name": "Thonk #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/thonk_1.png"
+  },
+  {
+    "id": "tipp_1",
+    "name": "Tipp #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/tipp_1.png"
+  },
+  {
+    "id": "toad_1",
+    "name": "Toad #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/toad_1.png"
+  },
+  {
+    "id": "trom_1",
+    "name": "Trom #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/trom_1.png"
+  },
+  {
+    "id": "twoot_1",
+    "name": "Twoot #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/twoot_1.png"
+  },
+  {
+    "id": "val_1",
+    "name": "Val #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/val_1.png"
+  },
+  {
+    "id": "vroom_1",
+    "name": "Vroom #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/vroom_1.png"
+  },
+  {
+    "id": "wallp_1",
+    "name": "Wallp #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wallp_1.png"
+  },
+  {
+    "id": "wanderer_1",
+    "name": "Wanderer #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wanderer_1.png"
+  },
+  {
+    "id": "willow_1",
+    "name": "Willow #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/willow_1.png"
+  },
+  {
+    "id": "winston_1",
+    "name": "Winston #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/winston_1.png"
+  },
+  {
+    "id": "wizzy_1",
+    "name": "Wizzy #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wizzy_1.png"
+  },
+  {
+    "id": "worf_1",
+    "name": "Worf #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/worf_1.png"
+  },
+  {
+    "id": "worm_1",
+    "name": "Worm #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/worm_1.png"
+  },
+  {
+    "id": "wump_bot_1",
+    "name": "Wump Bot #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wump_bot_1.png"
+  },
+  {
+    "id": "wumpus_1",
+    "name": "Wumpus #1",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_1.png"
+  },
+  {
+    "id": "wumpus_2",
+    "name": "Wumpus #2",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_2.png"
+  },
+  {
+    "id": "wumpus_3",
+    "name": "Wumpus #3",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_3.png"
+  },
+  {
+    "id": "wumpus_4",
+    "name": "Wumpus #4",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_4.png"
+  },
+  {
+    "id": "wumpus_5",
+    "name": "Wumpus #5",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_5.png"
+  },
+  {
+    "id": "wumpus_6",
+    "name": "Wumpus #6",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_6.png"
+  },
+  {
+    "id": "wumpus_7",
+    "name": "Wumpus #7",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_7.png"
+  },
+  {
+    "id": "wumpus_8",
+    "name": "Wumpus #8",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_8.png"
+  },
+  {
+    "id": "wumpus_9",
+    "name": "Wumpus #9",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_9.png"
+  },
+  {
+    "id": "wumpus_10",
+    "name": "Wumpus #10",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_10.png"
+  },
+  {
+    "id": "wumpus_11",
+    "name": "Wumpus #11",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_11.png"
+  },
+  {
+    "id": "wumpus_12",
+    "name": "Wumpus #12",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_12.png"
+  },
+  {
+    "id": "wumpus_13",
+    "name": "Wumpus #13",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_13.png"
+  },
+  {
+    "id": "wumpus_14",
+    "name": "Wumpus #14",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_14.png"
+  },
+  {
+    "id": "wumpus_15",
+    "name": "Wumpus #15",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_15.png"
+  },
+  {
+    "id": "wumpus_16",
+    "name": "Wumpus #16",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_16.png"
+  },
+  {
+    "id": "wumpus_17",
+    "name": "Wumpus #17",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_17.png"
+  },
+  {
+    "id": "wumpus_18",
+    "name": "Wumpus #18",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_18.png"
+  },
+  {
+    "id": "wumpus_19",
+    "name": "Wumpus #19",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_19.png"
+  },
+  {
+    "id": "wumpus_20",
+    "name": "Wumpus #20",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_20.png"
+  },
+  {
+    "id": "wumpus_21",
+    "name": "Wumpus #21",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_21.png"
+  },
+  {
+    "id": "wumpus_22",
+    "name": "Wumpus #22",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_22.png"
+  },
+  {
+    "id": "wumpus_23",
+    "name": "Wumpus #23",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_23.png"
+  },
+  {
+    "id": "wumpus_24",
+    "name": "Wumpus #24",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_24.png"
+  },
+  {
+    "id": "wumpus_25",
+    "name": "Wumpus #25",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_25.png"
+  },
+  {
+    "id": "wumpus_26",
+    "name": "Wumpus #26",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_26.png"
+  },
+  {
+    "id": "wumpus_27",
+    "name": "Wumpus #27",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_27.png"
+  },
+  {
+    "id": "wumpus_28",
+    "name": "Wumpus #28",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_28.png"
+  },
+  {
+    "id": "wumpus_29",
+    "name": "Wumpus #29",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_29.png"
+  },
+  {
+    "id": "wumpus_30",
+    "name": "Wumpus #30",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_30.png"
+  },
+  {
+    "id": "wumpus_31",
+    "name": "Wumpus #31",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_31.png"
+  },
+  {
+    "id": "wumpus_32",
+    "name": "Wumpus #32",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_32.png"
+  },
+  {
+    "id": "wumpus_33",
+    "name": "Wumpus #33",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_33.png"
+  },
+  {
+    "id": "wumpus_34",
+    "name": "Wumpus #34",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_34.png"
+  },
+  {
+    "id": "wumpus_35",
+    "name": "Wumpus #35",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_35.png"
+  },
+  {
+    "id": "wumpus_36",
+    "name": "Wumpus #36",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_36.png"
+  },
+  {
+    "id": "wumpus_37",
+    "name": "Wumpus #37",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_37.png"
+  },
+  {
+    "id": "wumpus_38",
+    "name": "Wumpus #38",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_38.png"
+  },
+  {
+    "id": "wumpus_39",
+    "name": "Wumpus #39",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_39.png"
+  },
+  {
+    "id": "wumpus_40",
+    "name": "Wumpus #40",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_40.png"
+  },
+  {
+    "id": "wumpus_41",
+    "name": "Wumpus #41",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_41.png"
+  },
+  {
+    "id": "wumpus_42",
+    "name": "Wumpus #42",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_42.png"
+  },
+  {
+    "id": "wumpus_43",
+    "name": "Wumpus #43",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_43.png"
+  },
+  {
+    "id": "wumpus_44",
+    "name": "Wumpus #44",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_44.png"
+  },
+  {
+    "id": "wumpus_45",
+    "name": "Wumpus #45",
+    "imageUrl": "https://img.avatardecoration.com/decorations/wumpus_45.png"
+  }
+]

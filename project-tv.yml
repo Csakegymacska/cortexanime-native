@@ -1,0 +1,53 @@
+name: CortexTV
+options:
+  bundleIdPrefix: eu.cortex.anime.tv
+  deploymentTarget:
+    tvOS: '17.0'
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: '5.0'
+    SWIFT_STRICT_CONCURRENCY: targeted
+    CURRENT_PROJECT_VERSION: '1'
+    MARKETING_VERSION: '1.0'
+    CODE_SIGN_STYLE: Automatic
+    GENERATE_INFOPLIST_FILE: false
+    ENABLE_USER_SCRIPT_SANDBOXING: true
+    ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    ASSETCATALOG_COMPILER_TOP_SHELF_IMAGE_NAME: TopShelfImage
+    ASSETCATALOG_COMPILER_TOP_SHELF_IMAGE_WIDE_NAME: TopShelfImageWide
+targets:
+  CortexTV:
+    type: application
+    platform: tvOS
+    sources:
+      - path: CortexTV/Sources
+      - path: CortexTV/Resources
+    info:
+      path: Build/TV-Info.plist
+      properties:
+        CFBundleDisplayName: CortexAnime
+        CFBundleDevelopmentRegion: en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UIRequiredDeviceCapabilities: [arm64]
+        LSRequiresIPhoneOS: false
+        ITSAppUsesNonExemptEncryption: false
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: eu.cortex.anime.tv
+        TARGETED_DEVICE_FAMILY: '3'
+        INFOPLIST_FILE: Build/TV-Info.plist
+        DEVELOPMENT_TEAM: ''
+    dependencies:
+      - sdk: AVKit.framework
+      - sdk: AVFoundation.framework
+schemes:
+  CortexTV:
+    build:
+      targets:
+        CortexTV: all
+    run:
+      config: Debug
