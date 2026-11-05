@@ -1,4 +1,5 @@
 import AVFoundation
+import PhotosUI
 import SwiftUI
 
 // MARK: - Chat extras (1.6-os csomag)
